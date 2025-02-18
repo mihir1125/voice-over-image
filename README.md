@@ -8,7 +8,7 @@
 4. pyaudio
 5. keyboard
 
-## Steps to use -
+## Steps to use
 
 1. Copy the image you want as the frame in your video
 2. Run main.py
