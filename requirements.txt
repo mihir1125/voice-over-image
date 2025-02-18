@@ -1,0 +1,5 @@
+moviepy
+pillow
+numpy
+pyaudio
+keyboard
